@@ -1,0 +1,2 @@
+
+        if (arr[index] == target) {
